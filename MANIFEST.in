@@ -1,0 +1,15 @@
+include README.md
+include LICENSE
+include CONTRIBUTING.md
+include pyproject.toml
+include setup.py
+include tracer/py.typed
+
+recursive-include tracer *.py
+recursive-exclude tests *
+recursive-exclude examples *
+recursive-exclude docs *
+
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store
