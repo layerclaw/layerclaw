@@ -1,4 +1,8 @@
-# 🐾 LayerClaw
+<p align="center">
+  <img src="assets/mascot.jpg" alt="LayerClaw Mascot" width="300"/>
+</p>
+
+# LayerClaw
 
 > **Deep Training Observability for PyTorch** - Track, debug, and optimize your ML training runs with ease.
 
